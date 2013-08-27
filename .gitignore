@@ -1,3 +1,4 @@
+/mods
 /target
 /classes
 /checkouts
@@ -9,3 +10,10 @@ pom.xml.asc
 .lein-failures
 .lein-plugins
 .lein-repl-history
+.idea/
+
+LICENSE
+
+README.md
+
+doc/intro.md
